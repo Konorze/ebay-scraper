@@ -1,3 +1,5 @@
+**DISCLAIMER: This script is made for educational and learning purposes only. I am not responsible for any misuse or damage caused by the script**
+
 # eBay Scraper
 
 This is a python script for scraping eBay listings based on a search query, price range, and sends new items to a telegram chat It can run with or without proxies, checks multiple pages, and avoids sending duplicate items the script is made to find new listings in real-time and send them to you via telegram

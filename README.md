@@ -13,7 +13,7 @@ This is a python script for scraping eBay listings based on a search query, pric
 
 ## Requirements
 
-You need python 3.7 or higher. The script uses some external packages, so you need to install them
+You need python 3.7 or higher  the script uses some external packages, so you need to install them
 
 ### Python packages
 
